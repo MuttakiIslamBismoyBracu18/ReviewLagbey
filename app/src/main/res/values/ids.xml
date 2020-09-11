@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Developed by Haerul Muttaqin
+  Last modified 9/8/20 5:08 PM
+  Subscribe : https://www.youtube.com/haerulmuttaqin
+  Copyright (c) 2020. All rights reserved
+  -->
+
+<resources>
+    <item name="viewPagerHeader" type="id" />
+    <item name="recyclerCategory" type="id" />
+    <item name="titleCategory" type="id" />
+    <item name="popup_user_image" type="id" />
+    <item name="popup_title" type="id" />
+    <item name="popup_description" type="id" />
+    <item name="popup_add" type="id" />
+    <item name="popup_progressBar" type="id" />
+</resources>
